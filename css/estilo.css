@@ -1,0 +1,9 @@
+﻿body{background-color:#B6B5B8}
+table{border-color: #FBC2B9; border:10px;}
+img{margin-left:450px; width: 400px; border:5px;}
+
+h1{background-color:#DCDCDD; font-family:Bahnschrift ; padding-top: 30px; padding-bottom:30px;font-size:80px; text-align:center;}
+h2{background-color:#FDD8D3; padding-top: 15px; padding-bottom:15px; text-align:center;}
+
+.titulo{ font-family:Bahnschrift ;}
+.texto{text-align:center; width: 500px; margin-left:380px; padding:20px; font-family: candara; font-color:#808080; border-radius:5px 40px;} 
